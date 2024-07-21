@@ -203,31 +203,3 @@ console.log(index());
 
 
 
-// function negative_nums() {
-//     let array = []
-//     for (let i = 4; i <= 0; i++) {
-//         let input = prompt('Enter a number: ');
-//         array.push(input[i])
-
-//     }
-//     return array;
-// }
-// console.log(negative_nums());
-
-
-
-
-
-
-
-
-// const array1 = [1, 2, 3, 4, 5];
-// console.log("Original array:", array1);
-// const reversedArray1 = reverseArray(array1);
-// console.log("Reversed array:", reversedArray1);
-
-// // larger array
-// const array2 = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
-// console.log("Original array:", array2);
-// const reversedArray2 = reverseArray(array2);
-// console.log("Reversed array:", reversedArray2)
